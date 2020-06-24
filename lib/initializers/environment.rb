@@ -1,1 +1,1 @@
-ENV["environment"]||="production"
+ENV["environment"]||="development"
