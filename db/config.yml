@@ -11,3 +11,10 @@ test:
   encoding: UTF8
   pool: 5
   timeout: 5000
+
+development:
+  adapter: sqlite3
+  database: db/test.database.sqlite3
+  encoding: UTF8
+  pool: 5
+  timeout: 5000
